@@ -9,4 +9,5 @@ DO NOT CHANGE
 
 public interface Indexer {
     Map<String, List<List<Integer>>> index(List<String> docs);
+
 }
